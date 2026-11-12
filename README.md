@@ -9,9 +9,10 @@ Written as personal documentation: what I did, the commands I used, and what I l
 - **Basic terminal use:** `ls`, `cd`, `cp`, `mv`, `rm`, `grep`, `cat`, `pwd`
 
 ## Windows
-- **Installation:** [Windows kurulumu / formatlama adımları, hangi sürüm]
-- **Troubleshooting:** [karşılaştığın bir sorun ve çözümü]
-
+- **Installation:** Created a bootable USB drive, booted from it, selected the disk and partitions, installed Windows, then installed drivers and system updates
+- **Formatting / reinstalling:** Formatted the disk and performed a clean installation
+- **Troubleshooting:** Diagnosed and fixed common issues such as missing drivers, slow startup, and software that would not install or run
+  
 ## Hardware
 - [Karşılaştığın bir donanım arızası ve nasıl tespit ettiğin]
 
