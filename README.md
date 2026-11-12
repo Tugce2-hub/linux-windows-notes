@@ -14,7 +14,7 @@ Written as personal documentation: what I did, the commands I used, and what I l
 - **Troubleshooting:** Diagnosed and fixed common issues such as missing drivers, slow startup, and software that would not install or run
   
 ## Hardware
-- [Karşılaştığın bir donanım arızası ve nasıl tespit ettiğin]
+- **Troubleshooting:** Fixed a computer that would not boot by cleaning it, following online troubleshooting guidance
 
 ## Still learning
 - Networking basics (TCP/IP, DNS, DHCP)
